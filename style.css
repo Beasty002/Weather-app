@@ -101,3 +101,16 @@ body {
     font-size: 28px;
     margin-top: -6px;
 }
+
+.weather {
+    display: none;
+}
+
+.error {
+    margin-top: 15px;
+    font-size: 1.6rem;
+    font-weight: bold;
+    text-align: left;
+    margin-left: 20px;
+    display: none;
+}
